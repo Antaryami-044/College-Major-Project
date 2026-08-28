@@ -14,8 +14,10 @@ Abstract
 
 <!-- OPTION 1: Place a GIF or Video Link here -->
 ### 🎥 System Demo & Real-Time Waveform Simulation
-<!-- Replace the URL below with your MP4 video link or YouTube thumbnail link -->
-[Click View Raw To Watch Demo Video](https://github.com/Antaryami-044/College-Major-Project/blob/main/IoT_Project_screen_recording.mp4)
+
+https://github.com/user-attachments/assets/8f825155-b244-40a9-90b8-6922a021e1ad
+
+
 
 <br/>
 
